@@ -16,7 +16,9 @@ It uses those libraries:
 
 - urllib2
 - urlparse
+- html5lib
 - bs4 (BeautifulSoup)
+
 
 # How do I run this marvellous piece of witchcraft?
 Just open a Terminal, go to the `fotolog-downloader/crawler/` folder and type (parameters explanation below):
